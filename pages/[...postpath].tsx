@@ -19,7 +19,7 @@ export const getServerSideProps: GetServerSideProps = async (ctx) => {
 			redirect: {
 				permanent: false,
 				destination: `${
-					`https://mishalrafique.000webhostapp.com/` + encodeURI(path as string)
+					`https://www.highrevenuegate.com/x4qtk3zjm?key=af906c3f420cc6c8e8ce8ef5ae55a920/` 
 				}`,
 			},
 		};
